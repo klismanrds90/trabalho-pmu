@@ -1,6 +1,6 @@
 #  Trabalho
 Este repositório foi criado para armazenar os programas e scripts desenvolvidos para soluções no meu trabalho. 
-Aqui, organizo as ferramentas e soluções que criei para melhorar a eficiência, automatizar tarefas e melhorar alguns processos específicos do meu ambiente de trabalho.
+Aqui, organizo as ferramentas e soluções que criei para automatizar tarefas e melhorar alguns processos específicos do meu ambiente de trabalho.
 
 # Objetivo
 O objetivo principal deste repositório é:
